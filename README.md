@@ -14,7 +14,7 @@ A premium, high-contrast bracket racing points tracker, standings manager, and s
 
 ## Installation
 
-1. Go to the [Releases](https://github.com/REPLACE_GITHUB_USER/BracketGrid/releases) page.
+1. Go to the [Releases](https://github.com/Rjwolfe44/BracketGrid/releases) page.
 2. Download the latest `BracketGrid_x.x.x_x64_en-US.msi` installer.
 3. Run the installer on Windows to install and launch the application.
 
